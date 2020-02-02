@@ -1,0 +1,27 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# This model initially had no columns defined. If you add columns to the
+# model remove the '{}' from the fixture names and add the columns immediately
+# below each fixture, per the syntax in the comments below
+#
+cubs: 
+  venue: "Wrigley Field"
+  name: 'Cubs'
+  franchise_code: "CHI"
+  sport_code: "mlb"
+  city: "Chicago"
+  full_display_name: "Chicago Cubs"
+  time_zone: "Chicago"
+  alternate_time_zone: "Chicago/America"
+  league_long: "National"
+  league_short: "NL"
+  abbreviated_name: "CHI"
+  team_code: "CHI"
+  base_url: "www.cubs.com"
+  address_line1: "123 Main St"
+  address_line2:
+  address_line3:
+  division_short: "NL-W"
+  state: "IL"
+  website_url: "www.cubs.com"
+  time_zone_utc_offset: "-5"
